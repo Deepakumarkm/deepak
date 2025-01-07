@@ -5,6 +5,7 @@ public class New {
 		String name = "Good morning";
 		String branch1="branch1";
 		String branch2="branch2";
+		String branch11="branch11";
 
 	}
 }
